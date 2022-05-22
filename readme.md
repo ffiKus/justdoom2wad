@@ -1,5 +1,5 @@
 
-# Просто делаю ремастер своего первого .WAD в Doom II
+# Просто делаю ремастер своего первого .WAD в Doom II / Just doing a remaster of my first .WAD in Doom II
 
 ## Screenshots
 
