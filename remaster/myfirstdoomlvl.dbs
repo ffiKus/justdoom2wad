@@ -20,14 +20,14 @@ maps
 			resource0
 			{
 				type = 0;
-				location = "D:\\Games\\zandro\\gzdoom\\doom2\\DOOM2.WAD";
+				location = "D:\\Games\\DOOM2.WAD";
 				option1 = 0;
 				option2 = 0;
 				notfortesting = 0;
 			}
 		}
-		viewpositiony = 116.8966f;
-		viewpositionx = -151.5612f;
+		viewpositiony = 468.7765f;
+		viewpositionx = 1592.684f;
 		
 		testprecommand
 		{
@@ -47,11 +47,11 @@ maps
 			gridrotate = 0;
 			backscalex = 100;
 			gridoriginx = 0;
-			gridsize = 64;
+			gridsize = 4;
 			background = "";
 			backoffsety = 0;
 		}
-		viewscale = 0.47356f;
+		viewscale = 2.971515f;
 		
 		reloadresourceprecommand
 		{
