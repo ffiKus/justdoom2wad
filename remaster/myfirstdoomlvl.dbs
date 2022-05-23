@@ -26,8 +26,8 @@ maps
 				notfortesting = 0;
 			}
 		}
-		viewpositiony = 388.3231f;
-		viewpositionx = -629.36f;
+		viewpositiony = 116.8966f;
+		viewpositionx = -151.5612f;
 		
 		testprecommand
 		{
@@ -47,11 +47,11 @@ maps
 			gridrotate = 0;
 			backscalex = 100;
 			gridoriginx = 0;
-			gridsize = 128;
+			gridsize = 64;
 			background = "";
 			backoffsety = 0;
 		}
-		viewscale = 0.3937365f;
+		viewscale = 0.47356f;
 		
 		reloadresourceprecommand
 		{
@@ -62,7 +62,7 @@ maps
 		defaulttoptexture = "WOOD12";
 		overridebottomtexture = false;
 		defaultbottomtexture = "WOOD12";
-		defaultfloortexture = "BIGBRIK2";
+		defaultfloortexture = "FLAT5_3";
 		overrideceilheight = false;
 		overridebrightness = false;
 		
@@ -82,6 +82,23 @@ maps
 			autocloseonsuccess = true;
 			exitcodeiserror = true;
 			stderriserror = true;
+		}
+		
+		plugins
+		{
+			
+			threedfloormode
+			{
+				
+				controlsectorarea
+				{
+					usecustomtagrange = false;
+					outerleft = -512;
+					outerright = 0;
+					outertop = 512;
+					outerbottom = 0;
+				}
+			}
 		}
 		
 		scriptdocuments
